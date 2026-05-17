@@ -1,2 +1,25 @@
-when first installing the autoclicker u'll to open cmd then run the following text 
-pip install pynput 
+# Features
+
+* **Click Settings** - configure mouse button, click interval, and repeat mode
+* **Controls** - FIRE/STOP actions, customizable hotkey, key rebinding, and safe stop system
+* **Statistics** - track session, last session, and all-time stats with reset options
+* **Themes & Colors** - 19 built-in presets including *Ronooosh Pink*, full color picker, and custom theme saving
+* **Visual Effects** - glass mode, animated pulsing button, splash screen, and smooth fade-in transitions
+* **Window Features** - frameless title bar, draggable window, always-on-top mode, minimize and close controls
+* **Fonts** - 10 selectable fonts with live preview support
+* **Technical Features** - multithreading support, hidden console, and automatic settings saving
+
+# Installation
+
+
+1. Install the required dependency:
+
+```bash
+pip install pynput
+```
+
+2. Run the application:
+
+```bash
+python main.py
+```
