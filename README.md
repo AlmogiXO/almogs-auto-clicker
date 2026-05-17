@@ -1,0 +1,1 @@
+# almogs-auto-clicker
