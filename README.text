@@ -14,12 +14,12 @@
 
 1. Install the required dependency:
 
-```bash
+```open cmd and run the following commend ↓
 pip install pynput
 ```
 
 2. Run the application:
 
-```bash
-python main.py
+``` 
+open the downloaded file from ur selcted location and run it
 ```
